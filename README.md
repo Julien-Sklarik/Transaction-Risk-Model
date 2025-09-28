@@ -72,9 +72,9 @@ repo root
   workflows  
  .gitignore and LICENSE and pyproject.toml and requirements.txt and README.md
 
-## Notes for reviewers
+## Notes 
 
-I focused on the choices that matter in production. Respect temporal order. Avoid leakage. Prefer average precision when positives are rare. Keep one entry point for training and persist everything needed for audit. The notebook documents the provenance of my Berkeley work while the src package reflects how I ship code.
+I focused on the choices that matter in production. Respect temporal order. Avoid leakage. Prefer average precision when positives are rare. Keep one entry point for training and persist everything needed for audit.
 
 ## License
 
