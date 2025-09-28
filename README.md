@@ -1,6 +1,6 @@
-# Berkeley Transaction Risk Model
+# Transaction Risk Model
 
-I turned my UC Berkeley research on card transaction fraud into a compact production ready pipeline. The goal is to show practical modeling choices for imbalanced transactions with time ordered validation and clean packaging that an engineering team can run end to end.
+I turned my UC Berkeley research on card transaction fraud into a compact production ready pipeline.
 
 ## Why this project
 
